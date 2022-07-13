@@ -34,6 +34,10 @@ I've always had a passion for visual things, so my favorite area is the Front-En
 </div><br>
 
 ## <img height="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/65/mobile-phone_1f4f1.png"> Where you can find me:
+<p><a href="https://www.linkedin.com/in/marnei-leandro-machado-b4210722a/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a></p>
+
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujodanield/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/araujodanield)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/araujodanield)
