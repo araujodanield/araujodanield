@@ -43,6 +43,6 @@ I've always had a passion for visual things, so my favorite area is the Front-En
 
 <div align="center">
   <a href="https://github.com/araujodanield">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" width="480em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujodanield&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
