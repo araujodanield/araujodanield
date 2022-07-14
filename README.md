@@ -5,7 +5,7 @@
 
 <br>
 
-I'm a brazillian self-taught student, with more than 4 years experience in the administrative and judicial sectors, who's trying to make a career trasition to the tech area.
+I'm a brazilian self-taught student, with more than 4 years experience in the administrative and judicial sectors, who's trying to make a career trasition to the tech area.
 I've always had a passion for visual things, so my favorite area is the Front-End Development, but I have plans to learn about Back-End too in the future.
 
 #### ⭐<ins>**Curiosity about me**</ins>: When I'm not studying or working, I like to walking/running around the city trying to discover places I've never seen before 🔍, or just have a relaxing time playing my favorite game: Final Fantasy XIV. 😅
