@@ -42,6 +42,6 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
 
 <div align="center">
   <a href="https://github.com/araujodanield">
-  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=tokyonight"/>
   <img align="center" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujodanield&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
