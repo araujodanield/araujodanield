@@ -17,7 +17,7 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
   <a href="https://developer.mozilla.org/HTML" target="_blank"><img align="center" alt="Daniel-HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
   <a href="https://developer.mozilla.org/CSS" target="_blank"><img align="center" alt="Daniel-CSS" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></a>
   <a href="https://git-scm.com/" target="_blank"><img align="center" alt="Daniel-GIT" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"/></a>
-  <a href="https://pages.github.com/" target="_blank"><img align="center" alt="Daniel-GITHUB" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"/></a>
+  <a href="https://pages.github.com/" target="_blank"><img align="center" alt="Daniel-GITHUB" height="40" src="https://cdn.discordapp.com/attachments/945744811284103260/1067256320807407676/github-svgrepo-com.png"/></a>
 </div><br>
 
 ## <img height="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/books_1f4da.png"> Future Objectives:
