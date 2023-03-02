@@ -11,7 +11,7 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
 
 <br>
 
-## <img height="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/samsung/320/hammer-and-wrench_1f6e0-fe0f.png"> My current Skills:
+## <img height="30px" src="https://em-content.zobj.net/thumbs/160/twitter/348/light-bulb_1f4a1.png"> My current Skills:
 <div style="display: inline_block"><br>
   <a href="https://developer.mozilla.org/JavaScript" target="_blank"><img align="center" alt="Daniel-Js" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"></a>
   <a href="https://developer.mozilla.org/HTML" target="_blank"><img align="center" alt="Daniel-HTML" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></a>
@@ -34,7 +34,7 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
   <a href="https://angular.io/docs" target="_blank"><img align="center" alt="Daniel-Angular" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"></a>
 </div><br>
 
-## <img height="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/facebook/65/mobile-phone_1f4f1.png"> Where you can find me:
+## <img height="30px" src="https://em-content.zobj.net/thumbs/160/twitter/348/mobile-phone_1f4f1.png"> Where you can find me:
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujodanield/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/araujodanield)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/araujodanield)
@@ -44,6 +44,6 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
 
 <div align="center">
   <a href="https://github.com/araujodanield">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujodanield&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=araujodanield&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=araujodanield&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
