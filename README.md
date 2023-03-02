@@ -1,6 +1,6 @@
 <div display="block" align="center">
   <img height="120em" alt="hello-there" src="https://cdn.discordapp.com/attachments/673658623892914207/996865118367383632/5si19ng6ric11.gif">
-  <h1>My name is Daniel! <img width="30px" src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif"></h1>
+  <h1>My name is Daniel! <img width="30px" src="https://em-content.zobj.net/source/microsoft-teams/337/waving-hand_1f44b.png"></h1>
 </div>
 
 <br>
