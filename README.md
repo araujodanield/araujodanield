@@ -20,7 +20,7 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
   <a href="https://pages.github.com/" target="_blank"><img align="center" alt="Daniel-GITHUB" height="40" src="https://cdn.discordapp.com/attachments/945744811284103260/1067256320807407676/github-svgrepo-com.png"/></a>
 </div><br>
 
-## <img height="30px" src="https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/160/google/313/books_1f4da.png"> Future Objectives:
+## <img height="30px" src="https://em-content.zobj.net/thumbs/160/apple/325/books_1f4da.png"> Future Objectives:
 <div style="display: inline_block"><br>
   <a href="https://reactjs.org/" target="_blank"><img align="center" alt="Daniel-React" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"></a>
   <a href="https://www.typescriptlang.org/" target="_blank"><img align="center" alt="Daniel-Ts" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"></a>
