@@ -7,8 +7,6 @@
 
 I'm a brazilian self-taught student with more than 4 years of experience in the administrative and law areas who are trying to make a career transition to the tech area. I've always had a passion for visual things, so the field I most enjoy studying is Front-End development. But I have plans to focus and learn about Back-End too in the future.
 
-#### ⭐<ins>**Curiosity about me**</ins>: When I'm not studying or working, I like to walk/run around the city trying to discover places I've never seen before or just take a break and play some RPG or its variants (I'm very addict to that genre of games 😅).
-
 <br>
 
 ## <img height="30px" src="https://em-content.zobj.net/thumbs/160/twitter/348/light-bulb_1f4a1.png"> My current Skills:
