@@ -35,7 +35,6 @@ I'm a brazilian self-taught student with more than 4 years of experience in the 
 ## <img height="30px" src="https://em-content.zobj.net/thumbs/160/twitter/348/mobile-phone_1f4f1.png"> Where you can find me:
 [![Linkdin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/araujodanield/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/araujodanield)
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/araujodanield)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/araujodanield/)
 
 #
