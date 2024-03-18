@@ -5,7 +5,7 @@
 
 <br>
 
-I'm a brazilian self-taught student with more than 4 years of experience in the administrative and law areas who are trying to make a career transition to the tech area. I've always had a passion for visual things, so the field I most enjoy studying is Front-End development. But I have plans to focus and learn about Back-End too in the future.
+I'm a brazilian System Analysis student with more than 4 years of experience in the administrative and legal areas, who are trying to make a career transition to the tech area. I've always had a passion for visual things, so the field I most enjoy studying is Front-End development. But I have plans to learn Back-End as well and specialize in Full Stack development.
 
 <br>
 
